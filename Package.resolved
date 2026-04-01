@@ -1,0 +1,42 @@
+{
+  "originHash" : "541a898d5b6f680c027170b999f61c62e83dc41d804db4c88d67aa27993fa904",
+  "pins" : [
+    {
+      "identity" : "amadocmodelios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vbmobile/AMADocModeliOS",
+      "state" : {
+        "revision" : "d7eebb23f9e9cf1de17e74c65b77d34df431620a",
+        "version" : "1.0.0-rc02"
+      }
+    },
+    {
+      "identity" : "documentreader-swift-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/regulaforensics/DocumentReader-Swift-Package",
+      "state" : {
+        "revision" : "3188ee0c86ca22e1193336385f3bf2a5aafe4acd",
+        "version" : "8.4.5436"
+      }
+    },
+    {
+      "identity" : "documentreadermrzrfid-swift-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/regulaforensics/DocumentReaderMRZRFID-Swift-Package",
+      "state" : {
+        "revision" : "a0cd70eadc6923551bc9ad59c8a7907c3977c39e",
+        "version" : "8.4.14875"
+      }
+    },
+    {
+      "identity" : "regulacommon-swift-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/regulaforensics/RegulaCommon-Swift-Package.git",
+      "state" : {
+        "revision" : "7fc9da9e143477a38da59fc5578521a8362f24af",
+        "version" : "8.4.1669"
+      }
+    }
+  ],
+  "version" : 3
+}

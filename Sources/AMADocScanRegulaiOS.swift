@@ -1,0 +1,1 @@
+@_exported import mdi_mob_sdk_doc_mrz_regula_ios
