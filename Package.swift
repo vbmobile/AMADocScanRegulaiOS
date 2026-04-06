@@ -13,15 +13,15 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/vbmobile/AMADocModeliOS", exact: "1.0.0-rc10"),
+        .package(url: "https://github.com/vbmobile/AMADocModeliOS", exact: "1.0.0-rc11"),
         .package(url: "https://github.com/regulaforensics/DocumentReader-Swift-Package", from: "8.3.0"),
         .package(url: "https://github.com/regulaforensics/DocumentReaderMRZRFID-Swift-Package", from: "8.3.0"),
     ],
     targets: [
         .binaryTarget(
             name: "mdi-mob-sdk-doc-mrz-regula-ios",
-            url: "https://vbmobileidstorage.blob.core.windows.net/ios/AMADocScanRegulaiOS/mdi-mob-sdk-doc-mrz-regula-ios-1.0.0-rc10.zip",
-            checksum: "10d024ce9e6bddf72883fb069913b3fde2187331f5cae72c91b5b31663c4c7cb"
+            url: "https://vbmobileidstorage.blob.core.windows.net/ios/AMADocScanRegulaiOS/mdi-mob-sdk-doc-mrz-regula-ios-1.0.0-rc11.zip",
+            checksum: "952ac6c737f7f1e25669bca56713b113f0a7def95e632d9fadaf4af6f4568233"
         ),
         .target(
             name: "AMADocScanRegulaiOS",
