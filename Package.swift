@@ -20,8 +20,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "mdi-mob-sdk-doc-mrz-regula-ios",
-            url: "https://vbmobileidstorage.blob.core.windows.net/ios/AMADocScanRegulaiOS/mdi-mob-sdk-doc-mrz-regula-ios-1.0.0-rc17.zip",
-            checksum: "e3a186bfda66a0b40c2bc9fbf90a60ad2783e2342205a3e30754e712a0fd11ec"
+            url: "https://vbmobileidstorage.blob.core.windows.net/ios/AMADocScanRegulaiOS/mdi-mob-sdk-doc-mrz-regula-ios-1.0.0-rc22.zip",
+            checksum: "a14434054f7031744060dc12d81a0615221b15f7595c5104fd48af674820a96d"
         ),
         .target(
             name: "AMADocScanRegulaiOS",
