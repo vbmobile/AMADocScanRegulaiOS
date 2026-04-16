@@ -13,7 +13,7 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/vbmobile/AMADocModeliOS", exact: "1.0.0-rc23"),
+        .package(url: "https://github.com/vbmobile/AMADocModeliOS", exact: "1.0.0-rc24"),
         .package(url: "https://github.com/regulaforensics/DocumentReader-Swift-Package", from: "8.3.0"),
         .package(url: "https://github.com/regulaforensics/DocumentReaderMRZRFID-Swift-Package", from: "8.3.0"),
     ],
