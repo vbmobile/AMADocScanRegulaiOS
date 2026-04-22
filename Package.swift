@@ -26,7 +26,7 @@ let package = Package(
         .target(
             name: "AMADocScanRegulaiOSWrapper",
             dependencies: [
-                "AMADocScanRegulaiOS",
+                .target(name: "AMADocScanRegulaiOS"),
                 .product(name: "AMADocModeliOS", package: "AMADocModeliOS"),
                 .product(name: "DocumentReader", package: "DocumentReader-Swift-Package"),
                 .product(name: "MRZRFID", package: "DocumentReaderMRZRFID-Swift-Package"),
